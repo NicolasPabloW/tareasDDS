@@ -1,1 +1,5 @@
-80p9o8inuythbgvrfd
+public class Constructor {
+	public String nombre ;
+	public String Domicilio;
+	public String Codigo ;
+}
